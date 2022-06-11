@@ -12,6 +12,7 @@
       return new bootstrap.Collapse(collapseEl, { toggle: false });
     });
 
+    
     for (var toggle of sidebarToggles) {
 
       // Toggle the side navigation
